@@ -1,0 +1,34 @@
+.container {
+    display: grid;
+    height: 600px;
+    width: 600px;
+    background-color: black;
+}
+.c{
+    height: 200px;
+    width:600px;
+    background-color: aqua;
+}
+  .c1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    right: 70%;
+    bottom: 72%;
+    align-items:center;
+    justify-content:center;
+  }  
+.c1 img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: block;
+}
+.c2{
+    height: 400px;
+    width: 600px;
+    background-color: beige;
+    border-bottom-right-radius: 10%;
+}
+
